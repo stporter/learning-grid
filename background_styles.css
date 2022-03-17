@@ -1,0 +1,12 @@
+body {
+	background-color: grey;
+}
+
+.grid-item-1,
+.grid-item-2,
+.grid-item-3,
+.grid-item-4,
+.grid-item-5 {
+	background-color: blue;
+	color: white;
+}
